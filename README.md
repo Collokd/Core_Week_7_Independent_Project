@@ -33,8 +33,6 @@ Tools required for the project;
 
 * Google Colab
 
-* Python Basics(Pandas, Numpy, matplotlib.pyplot, Seaborn, Sklearn)
-
-* Python Library
+* Python Library (Pandas, Numpy, matplotlib.pyplot, Seaborn, Sklearn)
 
 * Github
