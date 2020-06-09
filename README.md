@@ -36,3 +36,5 @@ Tools required for the project;
 * Python Library (Pandas, Numpy, matplotlib.pyplot, Seaborn, Sklearn)
 
 * Github
+
+[Link to my Google Colab](https://colab.research.google.com/drive/1FDJGJRSlJwh4QwUNdfWaB7x1Ys8tOcvt?usp=sharing)
